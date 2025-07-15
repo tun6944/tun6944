@@ -15,7 +15,7 @@
 <body>
 <div align="center" id="badges">
     <p id="header" align="center" title="Click on it!">
-        <a href="https://github.com/tun784">
+        <a href="https://github.com/tun6944">
             <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&duration=4000&color=0BBE00&center=true&vCenter=true&width=900&height=25&lines=Hello+world!+Hello+everybody!;Welcome+to+my+profile!;I'm+a+final-year+student;Thanks+for+viewing+my+Github+%3C3" width="100%" alt="Hello World"/>
         </a>
     </p>
@@ -32,37 +32,37 @@
 
 <p dir="auto" align="center">
     <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-        <img height="260" src="https://github-readme-activity-graph.vercel.app/graph?username=tun784&amp;theme=react-dark" alt="Github activity graph">
+        <img height="260" src="https://github-readme-activity-graph.vercel.app/graph?username=tun6944&amp;theme=react-dark" alt="Github activity graph">
     </a>
     <!-- <a href="https://gh-stats-gen.vercel.app/">
-        <img height="330" src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&theme=algolia&hide_border=true&layout=pie" alt="Top Languages"/>
+        <img height="330" src="https://github-readme-stats.vercel.app/api/top-langs?username=tun6944&theme=algolia&hide_border=true&layout=pie" alt="Top Languages"/>
     </a>
     &bg_color=30,e96443,904e95&title_color=fff&text_color=fff -->
     <a href="https://gh-stats-gen.vercel.app/">
-        <img height="190" src="https://github-readme-stats.vercel.app/api?username=tun784&amp;theme=algolia&amp;show_icons=true&amp;hide_border=true&amp;count_private=false" alt="Stats&#39;s Stats">
+        <img height="190" src="https://github-readme-stats.vercel.app/api?username=tun6944&amp;theme=algolia&amp;show_icons=true&amp;hide_border=true&amp;count_private=false" alt="Stats&#39;s Stats">
     </a>
 <!--     
     <a href="https://github-profile-summary-cards.vercel.app/demo.html">
-        <img height="190" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tun784&amp;theme=algolia&amp;utcOffset=8" alt="Productive Time">
+        <img height="190" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tun6944&amp;theme=algolia&amp;utcOffset=8" alt="Productive Time">
     </a>
     <a href="https://gh-stats-gen.vercel.app/">
-        <img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=tun784&amp;theme=algolia&amp;hide_border=true" alt="Streak">
+        <img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=tun6944&amp;theme=algolia&amp;hide_border=true" alt="Streak">
     </a> -->
     <a href="https://github-profile-summary-cards.vercel.app/demo.html">
-        <img height="190" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tun784&theme=algolia" alt="Most Commit Languages">
+        <img height="190" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tun6944&theme=algolia" alt="Most Commit Languages">
     </a>
     <a href="https://github-profile-summary-cards.vercel.app">
-        <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tun784&amp;theme=algolia" alt="Profile Details">
+        <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tun6944&amp;theme=algolia" alt="Profile Details">
     </a>
-    <a href="https://wakatime.com/@tun784">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tun784&theme=algolia&hide_border=true&layuout=compact" alt="Waka Time" />
+    <a href="https://wakatime.com/@tun6944">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tun6944&theme=algolia&hide_border=true&layuout=compact" alt="Waka Time" />
     </a>
     <!--
-        <img width="387" src="https://github-readme-stats.vercel.app/api?username=tun784&show_icons=true&theme=tokyonight" alt="Stats" />
-        <img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=tun784&theme=tokyonight" alt="Streak" />
-        <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tun784&theme=algolia" alt="Repositories per Language">
-        <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=tun784&layout=donut&theme=react" alt="Top Languages" />
-        <img style="max-width: 100%;" src="https://github-profile-trophy.vercel.app/?username=tun784&row=2&column=4&theme=onedark" alt="Trophy" />
+        <img width="387" src="https://github-readme-stats.vercel.app/api?username=tun6944&show_icons=true&theme=tokyonight" alt="Stats" />
+        <img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=tun6944&theme=tokyonight" alt="Streak" />
+        <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tun6944&theme=algolia" alt="Repositories per Language">
+        <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=tun6944&layout=donut&theme=react" alt="Top Languages" />
+        <img style="max-width: 100%;" src="https://github-profile-trophy.vercel.app/?username=tun6944&row=2&column=4&theme=onedark" alt="Trophy" />
     -->
 </p>
 
@@ -87,19 +87,19 @@
     </a>
     <!--
     <a href="https://github.com/antonkomarev/github-profile-views-counter">
-        <img width="140" src="https://komarev.com/ghpvc/?username=tun784&label=Profile+Views&color=red&style=plastic" align="right" alt="Profile Views"/>
+        <img width="140" src="https://komarev.com/ghpvc/?username=tun6944&label=Profile+Views&color=red&style=plastic" align="right" alt="Profile Views"/>
     </a>
     <a href="https://visitcount.itsvg.in">
-      <img src="https://visitcount.itsvg.in/api?id=tun784&label=Profile%20Views&color=0&icon=7&pretty=false" width="150" align="right" alt="Profile Views"/>
+      <img src="https://visitcount.itsvg.in/api?id=tun6944&label=Profile%20Views&color=0&icon=7&pretty=false" width="150" align="right" alt="Profile Views"/>
     </a>
     -->
 </p>
 
 <ul>
-    <li>👋 Welcome to my <em><a href="https://github.com/tun784?tab=repositories" style="text-decoration: none;">GitHub</a></em> profile.</li>
+    <li>👋 Welcome to my <em><a href="https://github.com/tun6944?tab=repositories" style="text-decoration: none;">GitHub</a></em> profile.</li>
     <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" alt="Hello,"><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25" height="20"></a> I'm a <u>third-year</u> student in an <strong><a href="#" style="text-decoration:none; color:red">university</a></strong> in Socialist Republic of <strong><a href="https://wikipedia.org/wiki/Vietnam" style="text-decoration:none; color:red">Vietnam</a></strong>.</li>
     <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" alt="Firstly,"><img src="https://cdn.icon-icons.com/icons2/1194/PNG/512/1490886306-20-graduation_82484.png" width="25" height="20"></a> I want to be an <a href="https://www.linkedin.com/in/me"><code>intern</code></a> to gain more new knowledge and experience.</li>
-    <li>I have <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/number_0_blue-512.png" width="14" height="14" alt="0"></a> years of programming experience, here's my <strong><a href="https://github.com/tun784?tab=repositories&q=&type=public&language=&sort=">projects</a></strong>.</li>
+    <li>I have <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/number_0_blue-512.png" width="14" height="14" alt="0"></a> years of programming experience, here's my <strong><a href="https://github.com/tun6944?tab=repositories&q=&type=public&language=&sort=">projects</a></strong>.</li>
 </ul>
 
 <p align="left" style="direction: rtl;" title="Social Networks">
@@ -189,7 +189,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> 
     </a> 
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/tun784/tun784/assets/116370663/7c8a9126-9178-42ac-b360-762cca11b245" alt="My SQL" width="50" height="50"/> 
+        <img src="https://github.com/tun6944/tun6944/assets/116370663/7c8a9126-9178-42ac-b360-762cca11b245" alt="My SQL" width="50" height="50"/> 
     </a>
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> 
@@ -376,18 +376,18 @@
 -->
 <!--
 <p dir="auto" align="center">
-    <a target="_blank" rel="noopener noreferrer" href="https://github.com/tun784/tun784/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only">
-        <img src="https://github.com/tun784/tun784/raw/output/github-contribution-grid-snake.svg#gh-dark-mode-only" alt="Snake Animaion from Github contribution grid" style="max-width: 100%;">
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/tun6944/tun6944/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only">
+        <img src="https://github.com/tun6944/tun6944/raw/output/github-contribution-grid-snake.svg#gh-dark-mode-only" alt="Snake Animaion from Github contribution grid" style="max-width: 100%;">
     </a>
 </p>
 -->
 <!--
 <p>
-    <a href="https://star-history.com/#tun784/tun784&Date">
+    <a href="https://star-history.com/#tun6944/tun6944&Date">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=tun784/tun784&type=Date&theme=dark" />
-        <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=tun784/tun784&type=Date" />
-        <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=tun784/tun784&type=Date" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=tun6944/tun6944&type=Date&theme=dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=tun6944/tun6944&type=Date" />
+        <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=tun6944/tun6944&type=Date" />
       </picture>
     </a>
 </p>
