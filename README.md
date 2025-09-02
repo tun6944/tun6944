@@ -72,7 +72,7 @@
 
 <p dir="auto">
     <a href="https://maps.app.goo.gl/ESmQ6miDdXt668PA8">
-        <img width="410" src="https://user-images.githubusercontent.com/116370663/274942617-52598b64-2521-403f-a013-88a9b1fd34a8.png" align="right" alt="The Map of Socialist Republic of Vietnam" title="Paracel Islands and Spratly Islands belong to Vietnam">
+        <img width="410" src="https://private-user-images.githubusercontent.com/116370663/484589459-69ab7b5a-9f7a-4e07-9747-886b3ac095af.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTY4MTk5OTMsIm5iZiI6MTc1NjgxOTY5MywicGF0aCI6Ii8xMTYzNzA2NjMvNDg0NTg5NDU5LTY5YWI3YjVhLTlmN2EtNGUwNy05NzQ3LTg4NmIzYWMwOTVhZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkwMlQxMzI4MTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xYTdjNjNkYWExOTRjMWM1MmIwZGI0NzA5ZDc2NTZlYThhNzVjMDZjY2VlNGQ2OTc3NDIxOWE0YjdkYzg3YTJjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Hvlsj_xusjfVWlgqzA16N11OGod7Sqhor5TGELzSdus" align="right" alt="The Map of Socialist Republic of Vietnam" title="Paracel Islands and Spratly Islands belong to Vietnam">
     </a>
 </p>
 
