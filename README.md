@@ -38,6 +38,7 @@
         <img height="330" src="https://github-readme-stats.vercel.app/api/top-langs?username=tun6944&theme=algolia&hide_border=true&layout=pie" alt="Top Languages"/>
     </a>
     &bg_color=30,e96443,904e95&title_color=fff&text_color=fff -->
+    <a href="https://wakatime.com"><img src="https://wakatime.com/share/@tun6944/002a0f9a-0545-41cb-8c4b-941ee996dd95.png" /></a>
     <a href="https://gh-stats-gen.vercel.app/">
         <img height="190" src="https://github-readme-stats.vercel.app/api?username=tun6944&amp;theme=algolia&amp;show_icons=true&amp;hide_border=true&amp;count_private=false" alt="Stats&#39;s Stats">
     </a>
@@ -53,9 +54,6 @@
     </a>
     <a href="https://github-profile-summary-cards.vercel.app">
         <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tun6944&amp;theme=algolia" alt="Profile Details">
-    </a>
-    <a href="https://wakatime.com/@tun6944">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tun6944&theme=algolia&hide_border=true&layuout=compact" alt="Waka Time" />
     </a>
     <!--
         <img width="387" src="https://github-readme-stats.vercel.app/api?username=tun6944&show_icons=true&theme=tokyonight" alt="Stats" />
