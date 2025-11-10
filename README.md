@@ -370,13 +370,6 @@
 </blockquote>
 -->
 <!--
-<p dir="auto" align="center">
-    <a target="_blank" rel="noopener noreferrer" href="https://github.com/tun6944/tun6944/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only">
-        <img src="https://github.com/tun6944/tun6944/raw/output/github-contribution-grid-snake.svg#gh-dark-mode-only" alt="Snake Animaion from Github contribution grid" style="max-width: 100%;">
-    </a>
-</p>
--->
-<!--
 <p>
     <a href="https://star-history.com/#tun6944/tun6944&Date">
       <picture>
