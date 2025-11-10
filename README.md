@@ -112,11 +112,14 @@
     <a href="https://www.facebook.com/me">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook" title="Facebook">
     </a>
-    <a href="https://steamcommunity.com/id/tuan78/">
+    <a href="https://steamcommunity.com/id/EastLaos">
         <img src="https://img.shields.io/badge/Steam-133367?style=for-the-badge&amp;logo=Steam&amp;logoColor=white" alt="Steam" title="Steam">
     </a>
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Youtube" title="Youtube">
+    </a>
+    <a href="https://www.linkedin.com/in/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" title="LinkedIn">
     </a>
     <!--   
     <a href="https://www.reddit.com/user/">
@@ -133,9 +136,6 @@
     </a>
     <a href="https://www.tiktok.com/">
         <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&amp;logo=tiktok&amp;logoColor=white" alt="TikTok" title="TikTok">
-    </a>
-    <a href="https://www.linkedin.com/in/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" title="LinkedIn">
     </a>
     <a href="https://t.me/">
         <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram" title="Telegram">
