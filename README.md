@@ -31,26 +31,35 @@
 </p>
 
 <p dir="auto" align="center">
+<!--     
     <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
         <img height="260" src="https://github-readme-activity-graph.vercel.app/graph?username=tun6944&amp;theme=react-dark" alt="Github activity graph">
     </a>
-    <!-- <a href="https://gh-stats-gen.vercel.app/">
+    <a href="https://gh-stats-gen.vercel.app/">
         <img height="330" src="https://github-readme-stats.vercel.app/api/top-langs?username=tun6944&theme=algolia&hide_border=true&layout=pie" alt="Top Languages"/>
     </a>
-    &bg_color=30,e96443,904e95&title_color=fff&text_color=fff -->
+    &bg_color=30,e96443,904e95&title_color=fff&text_color=fff
     <a href="https://gh-stats-gen.vercel.app/">
         <img height="190" src="https://github-readme-stats.vercel.app/api?username=tun6944&amp;theme=algolia&amp;show_icons=true&amp;hide_border=true&amp;count_private=false" alt="Stats&#39;s Stats">
-    </a>
-<!--     
+    </a>   
     <a href="https://github-profile-summary-cards.vercel.app/demo.html">
         <img height="190" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tun6944&amp;theme=algolia&amp;utcOffset=8" alt="Productive Time">
     </a>
     <a href="https://gh-stats-gen.vercel.app/">
         <img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=tun6944&amp;theme=algolia&amp;hide_border=true" alt="Streak">
-    </a> -->
+    </a>
     <a href="https://github-profile-summary-cards.vercel.app/demo.html">
         <img height="190" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tun6944&theme=algolia" alt="Most Commit Languages">
     </a>
+-->
+    <!-- Copy-paste in your Readme.md file -->
+    <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=116370663" target="_blank" style="display: block" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=116370663&image_size=auto&color_scheme=dark" width="771" height="auto">
+        <img alt="Dashboard stats of @tun6944" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=116370663&image_size=auto&color_scheme=light" width="771" height="auto">
+      </picture>
+    </a>    
+    <!-- Made with [OSS Insight](https://ossinsight.io/) -->
     <a href="https://github-profile-summary-cards.vercel.app">
         <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tun6944&amp;theme=algolia" alt="Profile Details">
     </a>
@@ -81,7 +90,7 @@
         </svg>
     </a>
     <a href="https://wakatime.com/@f229e779-047e-4bcc-9fe8-5b9d89b2fd06">
-        <img src="https://wakatime.com/badge/user/f229e779-047e-4bcc-9fe8-5b9d89b2fd06.svg" alt="Total time coded since Jul 28 2023" align="right"/>
+        <img src="https://wakatime.com/badge/user/f229e779-047e-4bcc-9fe8-5b9d89b2fd06.svg" alt="Total time coded" align="right"/>
     </a>
     <!--
     <a href="https://github.com/antonkomarev/github-profile-views-counter">
