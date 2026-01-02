@@ -51,19 +51,17 @@
     <a href="https://github-profile-summary-cards.vercel.app/demo.html">
         <img height="190" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tun6944&theme=algolia" alt="Most Commit Languages">
     </a>
--->
-    <!-- Copy-paste in your Readme.md file -->
+    <a href="https://github-profile-summary-cards.vercel.app">
+        <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tun6944&amp;theme=algolia" alt="Profile Details">
+    </a>
+-->    
+    <a href="https://wakatime.com/@tun6944"><img width="700" src="https://wakatime.com/share/@tun6944/6798bd34-ca76-481c-a41b-5cff1a6428b2.svg" /></a>
     <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=116370663" target="_blank" style="display: block" align="center">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=116370663&image_size=auto&color_scheme=dark" width="771" height="auto">
         <img alt="Dashboard stats of @tun6944" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=116370663&image_size=auto&color_scheme=light" width="771" height="auto">
       </picture>
-    </a>    
-    <!-- Made with [OSS Insight](https://ossinsight.io/) -->
-    <a href="https://github-profile-summary-cards.vercel.app">
-        <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tun6944&amp;theme=algolia" alt="Profile Details">
     </a>
-    <a href="https://wakatime.com/@tun6944"><img width="700" src="https://wakatime.com/share/@tun6944/6798bd34-ca76-481c-a41b-5cff1a6428b2.svg" /></a>
     <!--
         <img width="387" src="https://github-readme-stats.vercel.app/api?username=tun6944&show_icons=true&theme=tokyonight" alt="Stats" />
         <img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=tun6944&theme=tokyonight" alt="Streak" />
