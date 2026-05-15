@@ -258,10 +258,12 @@
     </a>
     <a href="https://wakatime.com/@tun6944"><img width="800" height="600" src="https://wakatime.com/share/@tun6944/6798bd34-ca76-481c-a41b-5cff1a6428b2.svg" /></a>
     <a href="https://github-profile-summary-cards.vercel.app">
-        <img height="190" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tun6944&theme=algolia" alt="Most Commit Languages">
+        <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tun6944&theme=algolia" alt="Most Commit Languages">
     </a>
+    <a href="https://github-profile-summary-cards.vercel.app">
     <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tun6944&theme=algolia" alt="Repositories per Language">
-    <a href="https://github-profile-summary-cards.vercel.app/demo.html">
+    </a>
+    <a href="https://github-profile-summary-cards.vercel.app">
         <img height="190" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tun6944&amp;theme=algolia&amp;utcOffset=8" alt="Productive Time">
     </a>
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tun6944&theme=algolia&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
