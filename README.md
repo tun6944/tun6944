@@ -15,7 +15,7 @@
 <body>
 <div align="center" id="badges">
     <p id="header" align="center" title="Click on it!">
-        <a href="https://github.com/tun6944">
+        <a href="https://git.io/typing-svg">
             <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&duration=4000&color=0BBE00&center=true&vCenter=true&width=900&height=25&lines=Hello+world!+Hello+everybody!;Welcome+to+my+profile!;I'm+a+final-year+student;Thanks+for+viewing+my+Github+%3C3" width="100%" alt="Hello World"/>
         </a>
     </p>
@@ -30,57 +30,11 @@
     </a>
 </p>
 
-<p dir="auto" align="center">
-<!--     
-    <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-        <img height="260" src="https://github-readme-activity-graph.vercel.app/graph?username=tun6944&amp;theme=react-dark" alt="Github activity graph">
-    </a>
-    <a href="https://gh-stats-gen.vercel.app/">
-        <img height="330" src="https://github-readme-stats.vercel.app/api/top-langs?username=tun6944&theme=algolia&hide_border=true&layout=pie" alt="Top Languages"/>
-    </a>
-    &bg_color=30,e96443,904e95&title_color=fff&text_color=fff
-    <a href="https://gh-stats-gen.vercel.app/">
-        <img height="190" src="https://github-readme-stats.vercel.app/api?username=tun6944&amp;theme=algolia&amp;show_icons=true&amp;hide_border=true&amp;count_private=false" alt="Stats&#39;s Stats">
-    </a>   
-    <a href="https://github-profile-summary-cards.vercel.app/demo.html">
-        <img height="190" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tun6944&amp;theme=algolia&amp;utcOffset=8" alt="Productive Time">
-    </a>
-    <a href="https://gh-stats-gen.vercel.app/">
-        <img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=tun6944&amp;theme=algolia&amp;hide_border=true" alt="Streak">
-    </a>
-    <a href="https://github-profile-summary-cards.vercel.app/demo.html">
-        <img height="190" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tun6944&theme=algolia" alt="Most Commit Languages">
-    </a>
-    <a href="https://github-profile-summary-cards.vercel.app">
-        <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tun6944&amp;theme=algolia" alt="Profile Details">
-    </a>
--->    
-    <a href="https://wakatime.com/@tun6944"><img width="700" src="https://wakatime.com/share/@tun6944/6798bd34-ca76-481c-a41b-5cff1a6428b2.svg" /></a>
-    <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=116370663" target="_blank" style="display: block" align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=116370663&image_size=auto&color_scheme=dark" width="771" height="auto">
-        <img alt="Dashboard stats of @tun6944" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=116370663&image_size=auto&color_scheme=light" width="771" height="auto">
-      </picture>
-    </a>
-    <!--
-        <img width="387" src="https://github-readme-stats.vercel.app/api?username=tun6944&show_icons=true&theme=tokyonight" alt="Stats" />
-        <img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=tun6944&theme=tokyonight" alt="Streak" />
-        <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tun6944&theme=algolia" alt="Repositories per Language">
-        <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=tun6944&layout=donut&theme=react" alt="Top Languages" />
-        <img style="max-width: 100%;" src="https://github-profile-trophy.vercel.app/?username=tun6944&row=2&column=4&theme=onedark" alt="Trophy" />
-    -->
-</p>
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" title="Click on it!">
-</a>
-
 <p dir="auto">
     <a href="https://maps.app.goo.gl/ESmQ6miDdXt668PA8">
         <img width="410" src="https://github.com/user-attachments/assets/69ab7b5a-9f7a-4e07-9747-886b3ac095af" align="right" alt="The Map of Socialist Republic of Vietnam" title="Paracel Islands and Spratly Islands belong to Vietnam">
     </a>
 </p>
-
 <p title="About me">
     <a id="user-content--about" href="#-about">
         <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16">
@@ -90,14 +44,9 @@
     <a href="https://wakatime.com/@f229e779-047e-4bcc-9fe8-5b9d89b2fd06">
         <img src="https://wakatime.com/badge/user/f229e779-047e-4bcc-9fe8-5b9d89b2fd06.svg" alt="Total time coded" align="right"/>
     </a>
-    <!--
     <a href="https://github.com/antonkomarev/github-profile-views-counter">
         <img width="140" src="https://komarev.com/ghpvc/?username=tun6944&label=Profile+Views&color=red&style=plastic" align="right" alt="Profile Views"/>
     </a>
-    <a href="https://visitcount.itsvg.in">
-      <img src="https://visitcount.itsvg.in/api?id=tun6944&label=Profile%20Views&color=0&icon=7&pretty=false" width="150" align="right" alt="Profile Views"/>
-    </a>
-    -->
 </p>
 
 <ul>
@@ -302,28 +251,50 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" title="Click on it!">
 </a>
+<p dir="auto" align="center">
+    <img style="max-width: 100%;" src="https://github-profile-trophy.vercel.app/?username=tun6944&theme=algolia&row=2&column=4" alt="Trophy" />
+    <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+        <img height="260" src="https://github-readme-activity-graph.vercel.app/graph?username=tun6944&amp;theme=react-dark" alt="Github activity graph">
+    </a>
+    <a href="https://wakatime.com/@tun6944"><img width="800" height="600" src="https://wakatime.com/share/@tun6944/6798bd34-ca76-481c-a41b-5cff1a6428b2.svg" /></a>
+    <a href="https://github-profile-summary-cards.vercel.app">
+        <img height="190" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tun6944&theme=algolia" alt="Most Commit Languages">
+    </a>
+    <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tun6944&theme=algolia" alt="Repositories per Language">
+    <a href="https://github-profile-summary-cards.vercel.app/demo.html">
+        <img height="190" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tun6944&amp;theme=algolia&amp;utcOffset=8" alt="Productive Time">
+    </a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tun6944&theme=algolia&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
+    <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=116370663" target="_blank" style="display: block" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=116370663&image_size=auto&color_scheme=dark" width="771" height="auto">
+        <img alt="Dashboard stats of @tun6944" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=116370663&image_size=auto&color_scheme=light" width="771" height="auto">
+      </picture>
+    </a>
+</p>
 
-<!--
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=7000&center=true&color=03F3FF&width=780&height=60&lines=Machine+Learning+Operations+End-to-End+Process"/>
+<p>
+    <a href="https://www.star-history.com/?repos=tun6944%2FViT_Coffee_Leaves_Diseases%2CJohnyyd%2FDoAnTotNghiep%2Ctiao051%2FViolence-Detection&type=date&legend=top-left">
+     <picture>
+       <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=tun6944/ViT_Coffee_Leaves_Diseases%2CJohnyyd/DoAnTotNghiep%2Ctiao051/Violence-Detection&type=date&theme=dark&legend=top-left" />
+       <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=tun6944/ViT_Coffee_Leaves_Diseases%2CJohnyyd/DoAnTotNghiep%2Ctiao051/Violence-Detection&type=date&legend=top-left" />
+       <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=tun6944/ViT_Coffee_Leaves_Diseases%2CJohnyyd/DoAnTotNghiep%2Ctiao051/Violence-Detection&type=date&legend=top-left" />
+     </picture>
+    </a>
 </p>
-<p align="center">
-    <a href="https://www.linkedin.com/in/mr-deepak-bhardwaj/">
-        <img width= "100%" src="https://media.licdn.com/dms/image/D4E22AQFeguh1o0HBBg/feedshare-shrink_800/0/1689754870426?e=1692835200&v=beta&t=JK7F9Dkgf2H9PQWLupwsEd1bLFBwpa5aW_VTvS3pIBs" width="400" alt="Machine Learning Operations (MLOps) - End-to-End Process"/>
-</p>
--->
-<!--
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" title="Click on it!">
+</a>
+
 <p align="center" title="Click on it!">
     <a id="user-content--donate" href="#-donate">
         <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16">
-            <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=39&duration=4000&color=03F3FF&center=true&width=600&height=65&lines=Donate+a+fund+for+me;Thanks+for+supporting+me;Hãy+donate+cho+tôi;Xin+cảm+ơn+đã+donate+cho+tôi"/>
+            <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=39&duration=4000&color=03F3FF&center=true&width=600&height=65&lines=Donate+to+me;Thanks+for+donate+to+me;"/>
         </svg>
     </a>
 </p>
 <p align="center">
-    <a href="https://patreon.com/user?u=21920896">
-        <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXgY-fLBjZZ9Im0tHX8H11e0F68VxTVGBnjCw8v-C4XXCqw9c_" height="60" alt="Patreon" title="Donate me!" />
-    </a>
     <a href="https://buymeacoffee.com/tuntomo">
         <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" alt="Buy Me a Coffee" title="Donate me!"/>
     </a>
@@ -331,13 +302,15 @@
         <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="60" alt="Ko-fi" title="Donate me!"/>
     </a>
 </p>
-<a id="user-content--memes" href="#-memes">
-    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16">
-        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" title="Click on it!">
-    </svg>
-</a>
--->
-
+<p align="center" style="direction: rtl;">
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" title="Click on it!">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=27&duration=4000&color=fc1c1c&center=true&width=280&height=45&lines=Random+Quote;Random+Quote;Châm+ngôn+ngẫu+nhiên;Châm+ngôn+ngẫu+nhiên" alt="Random Quote" title="Click on it!"/>
+    </a>
+    <br>
+    <a href="https://github.com/PiyushSuthar/github-readme-quotes">
+        <img src="https://quotes-github-readme.vercel.app/api?border=true&theme=algolia" width="285" height=auto/>
+    </a>
+</p>
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
     <themed-picture data-catalyst-inline="true" data-catalyst="">
         <a href="https://github.com/Platane/snk">
@@ -349,43 +322,5 @@
         </a>
     </themed-picture>
 </article>
-
-<p align="center" style="direction: rtl;">
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" title="Click on it!">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=27&duration=4000&color=fc1c1c&center=true&width=280&height=45&lines=Random+Quote;Random+Quote;Châm+ngôn+ngẫu+nhiên;Châm+ngôn+ngẫu+nhiên" alt="Random Quote" title="Click on it!"/>
-    </a>
-    <!--
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" title="Click on it!">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=27&duration=4000&color=fc1c1c&center=true&width=250&height=45&lines=Random+Dev+Meme;Random+Dev+Meme;Meme+IT+ngẫu+nhiên;Meme+IT+ngẫu+nhiên" alt="Random Dev Meme" align="left" title="Click on it!"/>
-    </a>
-    -->
-    <br><br>
-    <a href="https://github.com/PiyushSuthar/github-readme-quotes">
-        <img src="https://quotes-github-readme.vercel.app/api?border=true&theme=algolia" width="285" height=auto/>
-    </a>
-    <!--
-    <a href="https://github.com/orgs/community/discussions/84693#discussioncomment-8027448">
-        <img src="https://randommeme-five.vercel.app" align="left" width="425" height=auto/>
-    </a>
-    -->
-</p>
-<!--
-<br><br><br>
-<blockquote>
-<p dir="auto">
-    <strong>Attention</strong>  You haven't followed me yet</p>
-</blockquote>
--->
-<!--
-<p>
-    <a href="https://star-history.com/#tun6944/tun6944&Date">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=tun6944/tun6944&type=Date&theme=dark" />
-        <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=tun6944/tun6944&type=Date" />
-        <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=tun6944/tun6944&type=Date" />
-      </picture>
-    </a>
-</p>
--->
 </body>
 </html>
